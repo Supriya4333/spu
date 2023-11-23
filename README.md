@@ -1,1 +1,1 @@
-# spu
+print("Hello World")
